@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...web development,cybersecurity and hacking stuff 
 - 🌱 I’m currently learning ...python 
 - 💞️ I’m looking to collaborate on ...various project going to implement in coming days 
-- 📫 How to reach me ...via my gmail ndelechehamis@gmail.com/my linkedin account(ndeleche hamis)
+- 📫 How to reach me ...via my gmail ndelechehamis@gmail.com/my linkedin account https://www.linkedin.com/in/ndeleche-hamis-183649215/
 
 <!---
 ndeleche/ndeleche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
