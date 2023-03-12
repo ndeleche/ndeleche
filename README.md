@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ndeleche hamis call me (i.a.m.ndeleche)
 - 👀 I’m interested in ...web development,cybersecurity and hacking stuff 
-- 🌱 I’m currently learning ...python 
-- 💞️ I’m looking to collaborate on ...various project going to implement in coming days 
+- 🌱 I’m currently learning ...python  
 - 📫 How to reach me ...via my gmail ndelechehamis@gmail.com/my linkedin account https://www.linkedin.com/in/ndeleche-hamis-183649215/
 
 <!---
