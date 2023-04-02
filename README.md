@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ndeleche hamis call me (i.a.m.ndeleche)
-- 👀 I’m interested in ...web development,cybersecurity and hacking stuff 
+- 👀 I’m interested in ...Software development,cybersecurity and hacking stuff 
 - 🌱 I’m currently learning ...python $ Django
 - 📫 How to reach me ...via my gmail ndelechehamis@gmail.com/my linkedin account https://www.linkedin.com/in/ndeleche-hamis-183649215/
 
