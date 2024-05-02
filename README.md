@@ -37,9 +37,9 @@
 [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamndeleche/)
 [![General badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://iamndeleche.pythonanywhere.com/)
 
+[![General badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndeleche-hamis-16b36b286/?originalSubdomain=tz)
 
-
-
+[![General badge](https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)](https://www.pinterest.com/Graphics_chaap/)
 
 
 
