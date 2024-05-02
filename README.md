@@ -29,6 +29,13 @@
 <!--![Genaral badge]()-->
 
 
+<br>
+
+## Contact Me
+[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](MailTo:ndelechehamis@gmail.com)
+[![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61558691226421)
+[![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamndeleche/)
+[![General badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://iamndeleche.pythonanywhere.com/)
 
 
 
